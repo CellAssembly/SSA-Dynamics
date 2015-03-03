@@ -22,7 +22,7 @@ PLoS Computational Biology (2015), to appear
 (arXiv version -- http://arxiv.org/abs/1411.2103)
 
 
-** If you use this code in an academic article, please cite our work. Thanks **
+-- If you use this code in an academic article, please cite our work. Thanks --
 --------------------------------------------------------------------------------
 CODE DESCRIPTION:
 
