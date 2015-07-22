@@ -16,9 +16,9 @@ this program. If not, see http://www.gnu.org/licenses/.
 This code implements the leaky-integrate-and-fire network simulations as 
 described in the following paper
 
-M. T. Schaub, Y. N. Billeh, C. A. Anastassiou, C. Koch, M. Barahona;
-"Emergence of slow-switching assemblies in structured neuronal networks"
-PLoS Computational Biology (2015), to appear
+Schaub MT, Billeh YN, Anastassiou CA, Koch C, Barahona M (2015) 
+"Emergence of Slow-Switching Assemblies in Structured Neuronal Networks." 
+PLoS Comput Biol 11(7): e1004196. doi:10.1371/journal.pcbi.1004196
 (arXiv version -- http://arxiv.org/abs/1411.2103)
 
 
